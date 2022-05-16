@@ -5,3 +5,4 @@
 
 ## Escribiendo para ver diff
 ## Uso de git log
+## Distintas formas de usar el log
