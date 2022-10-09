@@ -4,7 +4,4 @@
 
 ## Segundo texto para comitear
 
-
-## GIT ALIAS
- asdasdsad
- 
+## practicando con las alias 
