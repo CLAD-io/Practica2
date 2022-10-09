@@ -16,9 +16,9 @@ git config --global alias.s "status --short"
 
 ## welcome to the learning
 
-<<<<<<< HEAD
+
 ## Como quitar varios alias 
-=======
+
 ## Agrego mensaje para practicar
 
 ## Eliminar alias
