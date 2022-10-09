@@ -11,4 +11,4 @@
 git config --global alias.s "status --short"
 
 ```
-## welcome
+## welcome to the learning
