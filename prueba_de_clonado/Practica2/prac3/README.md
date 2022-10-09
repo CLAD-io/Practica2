@@ -17,3 +17,5 @@ git config --global alias.s "status --short"
 ## welcome to the learning
 
 ## Agrego mensaje para practicar
+
+## Eliminar alias
