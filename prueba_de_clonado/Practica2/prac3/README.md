@@ -22,4 +22,3 @@ git config --global alias.s "status --short"
 ## Agrego mensaje para practicar
 
 ## Eliminar alias
->>>>>>> nueva_rama
