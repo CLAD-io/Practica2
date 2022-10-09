@@ -3,7 +3,5 @@
 ## GIT ABORT
 
 ```sh
-
 git merge -abort
-
 ```
