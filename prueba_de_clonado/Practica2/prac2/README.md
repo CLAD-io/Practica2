@@ -14,3 +14,4 @@ git merge -abort
 * git reset --mixed
 * git reset --hard
 
+## Agrego msj
