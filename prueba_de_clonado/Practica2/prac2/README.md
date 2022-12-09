@@ -15,3 +15,7 @@ git merge -abort
 * git reset --hard
 
 ## Agrego msj
+
+## USO DE TAGS
+
+## GIT STASH
