@@ -7,3 +7,5 @@ git merge -abort
 ```
 
 ## Usando branch -av
+
+## recupero rama con  git switch -c 
